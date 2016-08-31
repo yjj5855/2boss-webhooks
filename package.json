@@ -1,0 +1,8 @@
+{
+  "name": "2boss-webhooks",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "github-webhook-handler": "^0.6.0"
+  }
+}
